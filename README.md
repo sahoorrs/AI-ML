@@ -5,8 +5,7 @@ I enjoy working with Devops, CI/CD, Cloud Management, QA, Automation, Incident M
 - 🌱 I’m currently learning **[Tech or Framework]**
 - 🔭 I’m working on **[Project Name]**
 - 💬 Ask me about **[Areas you’re confident in]**
-- 📫 How to reach me: [Your Email] | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rashmi-ranjan-sahoo-leader/)
 ---
 
 ## 🛠️ Skills & Tools
