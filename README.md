@@ -45,8 +45,9 @@ I enjoy working with Devops, CI/CD, Cloud Management, QA, Automation, Incident M
 ---
 
 ## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmi-ranjan-sahoo-leader/)
+<!--
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://yourwebsite.com)
-
+-->
 ---
