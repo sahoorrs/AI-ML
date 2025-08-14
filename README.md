@@ -67,5 +67,6 @@ I enjoy working with Devops, CI/CD, Cloud Management, QA, Automation, Incident M
 - [NVIDIA A100 Tensor Core GPU Architecture ](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)
 - [NVIDIA H100 Tensor Core GPU Architecture](https://resources.nvidia.com/en-us-hopper-architecture/nvidia-h100-tensor-c)
 - [NVIDIA RTX BLACKWELL GPU ARCHITECTURE](https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf)
+- [NVIDIA TESLA V100 GPU ARCHITECTURE](https://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf)
 - [NVIDIA GB100 Spec](https://www.techpowerup.com/gpu-specs/nvidia-gb100.g1069)
 ---
