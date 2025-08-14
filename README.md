@@ -74,4 +74,7 @@ I enjoy working with Devops, CI/CD, Cloud Management, QA, Automation, Incident M
 ### AMD
 - [AMD CDNA Architecture](https://www.amd.com/content/dam/amd/en/documents/instinct-business-docs/white-papers/amd-cdna-white-paper.pdf)
 - [AMD RDNA ARCHITECTURE](https://www.techpowerup.com/gpu-specs/docs/amd-rdna-whitepaper.pdf)
+
+### Graphics
+- [Ray Tracing 3D Computer Graphics](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
 ---
