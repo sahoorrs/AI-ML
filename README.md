@@ -29,10 +29,10 @@ I enjoy working with Devops, CI/CD, Cloud Management, QA, Automation, Incident M
 ---
 
 ## 🏆 Achievements
-- 🥇 [Notable Award or Certification]
-- 📜 [Certification Name — e.g., AWS Certified Developer]
+- 📜 [Certified Kubernetes Administrator 2025](https://www.udemy.com/certificate/UC-5332a7ec-07f0-4165-9cec-1ac42ac21665/)
 - 🎯 [Major Milestone — e.g., Contributed to Open Source Project]
-
+- 🥇 [Notable Award or Certification]
+- 
 ---
 
 ## 📂 Featured Projects
