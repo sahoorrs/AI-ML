@@ -64,3 +64,5 @@ I enjoy working with Devops, CI/CD, Cloud Management, QA, Automation, Incident M
 ---
 ## Knowledge Base!
 [CUDA](https://docs.nvidia.com/cuda/)
+[NVIDIA A100 Tensor Core GPU 
+Architecture ](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)
